@@ -58,4 +58,10 @@ php -S localhost:8000
 
 を表示します。
 
+<img width="1182" alt="wordpressnew_1-min" src="https://user-images.githubusercontent.com/103015617/189565590-ddc24464-8f45-4d15-b603-1ae691b026bf.png">
+
+こちらが表示されたら成功です。
+
+
+
 
