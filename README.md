@@ -148,16 +148,23 @@ echo '文字として表示します';
 PHP には、変数があり、値を入れることができる箱を用意できます
 
 ```php:index.html
+<?php
 $test = 4;
 
 echo $test;
+?>
 ```
 
 ## 文字列の連結
 
 連結演算子 `.` をすることで文を連結することができます
 
-
+```php:index.php
+<php
+   $name = 'wata';
+   echo $name . 'さんようこそ';
+?>
+```
 
 
 
