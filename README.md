@@ -117,7 +117,7 @@ echo '文字として表示します';
 
 ```php:index.html
 <?php
-    echo '1 +2';
+    echo '1 + 2';
 ?>
 ```
 
