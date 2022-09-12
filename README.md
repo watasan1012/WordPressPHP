@@ -49,3 +49,13 @@ PHPには、ファイルの拡張子が決まっています。```.php``` の部
 ```shell
 php -S localhost:8000
 ```
+
+[Mon Sep XX XX:XX:XX 2022] PHP 8.1.8 Development Server (http://localhost:8000) started
+
+と表示されるので、ブラウザーから
+
+[http://localhost:8000](http://localhost:8000)
+
+を表示します。
+
+
